@@ -84,8 +84,9 @@ function draw() {
     
   //TEXT
   push();
+  translate(0,200);
   if(toggle===true) {  
-  scale(1.5,1.5)
+  scale(1.35,1.35)
   noStroke();
   fill(225);
   textAlign(CENTER);
