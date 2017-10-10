@@ -90,7 +90,7 @@ function draw() {
   noStroke();
   fill(225);
   textAlign(CENTER);
-  text("Click to toggle tracing mode",0,0);}
+  text("Click to start the visual trip",0,0);}
   pop();
   
 }
